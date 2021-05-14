@@ -1,2 +1,2 @@
-# domotics
-Here is our SENA's project, and our code is totally public, we are a great team. Remember show respect for your majors 
+# domotics - backend branch
+Here are all the logic behind behind, the connection between the server, the modules and the page.
