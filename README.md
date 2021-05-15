@@ -1,2 +1,2 @@
-# domotics
-Here is our SENA's project, and our code is totally public, we are a great team. Remember show respect for your majors 
+# domotics - Front-end
+gui is the branch for the Front-end domotics's part, so here we work with Front-end technologies. 
